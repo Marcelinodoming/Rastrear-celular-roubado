@@ -1,4 +1,3 @@
-termux-setup-storage
 apt update && apt upgrade
 pkg install git
 pkg install wget
